@@ -7,6 +7,9 @@ services:
 
     restart: always
 
+    depends_on:
+      - cmc-general-bot-db
+
     labels:
       com.centurylinklabs.watchtower.enable: "true"
 
