@@ -27,3 +27,6 @@ services:
 
     volumes:
       - cmc-general-bot-db:/data/db
+
+volumes:
+  cmc-general-bot-db:
