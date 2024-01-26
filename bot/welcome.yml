@@ -4,6 +4,16 @@
 
     Welcome to the CMC server, a community dedicated to helping everyone with their own community spaces. We aim to promote education through collaboration, with a distinct focus on creating resources that exist outside of Discord, and that are thus readily accessible.
 
+    ## PluralKit
+
+    This server makes use of <@466378653216014359>, an accessibily tool primarily designed for use by members of plural systems. While this bot will make some messages appear to have been sent by bots and break up the flow of fast-moving discussions a little, it's a necessary accessibility tool for those who need it.
+
+
+    On this server, you may only use <@466378653216014359> as an accessibility tool. Do not use it to impersonate someone else, role-play, evade blocks, or otherwise cause trouble.
+
+    
+    For more information on plural systems, we suggest reading more here: https://morethanone.info/
+
 - type: rules
 
   text: >-
@@ -16,7 +26,7 @@
 
   rules:
     Follow Discord's Rules: >-
-      We're obliged to enforce Discord's rules, as a project that mostly exists on Discord - that means that everyone must follow the [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/terms/guidelines).
+      We're obliged to enforce Discord's rules, as a project that mostly exists on Discord - that means that everyone must follow Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/terms/guidelines).
 
 
       We recognise that some client mods provide useful moderation tools and accessibility features, and it isn't our prerogative to tell people what software they may or may not run on their devices. However, even though Discord is not known for banning client mod users at random, you're still taking a huge risk by installing one. For that reason, we would rather not facilitate the promotion of client mods on this server.
@@ -26,13 +36,13 @@
       While we understand that not everyone speaks native-level English, it's the common language used in our community spaces. As a result, we are currently unable to moderate discussions that primarily use other languages.
 
 
-      If you don't speak English as well as you perhaps would like to, don't worry - please give it your best shot regardless, and make use of translation tools like [Google Translate](https://translate.google.com/) if you need to. We will not tolerate discrimination towards anyone for a lack of proficiency with the English language.
+      If you don't speak English as well as you perhaps would like to, don't worry - please give it your best shot regardless, and make use of translation tools like Google Translate if you need to. We will not tolerate discrimination towards anyone for a lack of proficiency with the English language.
 
 
       This rule only applies when it's impossible to discern the subject or primary content of a discussion due to the use of another language. It does not apply when talking about translating text, moderating content in other languages, or localising tooling, bots, or the CMC project itself.
 
     Interact Appropriately: >-
-      Keep discussions relevant and meaningful, and do your best to adhere to the topics of the channels you're using.
+      Keep discussions relevant and meaningful, be conscious of other people using the server, and do your best to adhere to the topics of the channels you're using.
 
 
       In particular:
@@ -41,7 +51,7 @@
 
       - Do not use generative AI to answer questions, or to interact on this server in general. The use of generative AI is also prohibited when contributing content to the CMC projects. This rule exists largely because of the dangers of AI hallucinations, and we take this problem seriously.
 
-      - Do not post NSFW media or make sexual advances or comments towards other users. Discussions around the definition of NSFW, how to handle NSFW content in your spaces, and other similar topics are allowed.
+      - Do not post NSFW media or make sexual advances or comments towards other users. Discussions about the definition of NSFW, how to handle NSFW content in your spaces, and other similar topics are allowed.
 
       - Do not post malicious files. Malicious links may only be posted within a `code block`, and only when they're relevant to a current discussion. We're currently working on collaborating with the FishFish project, where discussing this type of content is a little more on-topic.
 
@@ -57,17 +67,21 @@
 
       - Do not use this server as a way to contact any Discord staff members that may be present here, or to attempt to escalate your Discord reports or support tickets.
 
-      - Do not harass or bully anyone, and do not discriminate against protected minority groups. Hate speech (such as racism, sexism, homophobia, transphobia, etc) will not be tolerated.
+      - Do not harass or bully anyone, and do not discriminate against protected minority groups. Hate speech (such as racism, sexism, homophobia, transphobia, etc) will not be tolerated. If another user states that they're uncomfortable with you talking to them, stop engaging. Do not evade blocks, and do not ask anyone to pass messages to someone that doesn't want to talk to you.
 
       - Do not doxx anyone, or otherwise share their addresses, real names, IP addresses or any other personal information without their permission.
 
+      - Do not abuse accessibility tools such as <@466378653216014359> by impersonating someone else, role-playing, evading blocks or otherwise causing trouble.
+
       - Do not send unsolicited private messages to other users, unless they've stated (either via their Discord  profile bio or a message) that they're open to them.
 
-      - Do not pester other users about their Discord profile badges. If you have questions about a specific badge, [Discord talks about them in this article](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101).
+      - Do not pester other users about their Discord profile badges. If you have questions about a specific badge, Discord talks about them in this article: https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101
+
+      - Remember that other users may have disabilities and trauma triggers. We'd appreciate if you would add alt text to your images, avoid posting flashing or fast-moving imagery, and use spoilers with content warnings when discussing difficult subjects.
 
       - This project is focused on educating people and creating resources, rather than keeping track of individual members of specific-community-focused harassment groups. Discussions relating to those groups are on-topic, but we would prefer not to orchestrate witch hunts.
 
-      - We aim to educate people on quite a few topics, and part of that work will involve experiencing others' inexperience, biases and misconceptions first-hand. While we have absolutely no interest in judging the reactions of a minority group towards people with harmful beliefs about them, we would like to take the opportunity to educate those who are not inherently bigoted, which may be made more difficult when basic misconceptions are met with instant hostility.
+      - We aim to educate people on quite a few topics, and part of that work will involve experiencing others' inexperience, biases, and misconceptions first-hand. While we have absolutely no interest in judging the reactions of a minority group towards people with harmful beliefs about them, we would like to take the opportunity to educate those who are not inherently bigoted, which may be made more difficult when basic misconceptions are met with instant hostility.
 
 - type: embed
 
@@ -81,8 +95,6 @@
         - <@&1199684396899385444> handle project-wide decisions and the day-to-day maintenance of both the project and this server.
 
         - <@&1131362880269336616> handle general moderation of this server and other project spaces. You can DM the ModMail bot if you need to contact them, or ping them in a channel for situations that need their immediate attention.
-
-        - <@&1131547978331590808> [TODO: Define roles]
 
         - <@&1199684531360366602> are people that have directly contributed to the project in some way.
 
