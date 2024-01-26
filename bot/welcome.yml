@@ -2,114 +2,72 @@
   text: >-
     # CMC: Community Management Community
 
-    Welcome to the CMC server, a community dedicated to helping everyone with their own community spaces. We aim to
-    promote education through collaboration, with a distinct focus on creating resources that exist outside of
-    Discord, and that are thus readily accessible.
+    Welcome to the CMC server, a community dedicated to helping everyone with their own community spaces. We aim to promote education through collaboration, with a distinct focus on creating resources that exist outside of Discord, and that are thus readily accessible.
 
 - type: rules
 
   text: >-
     ## Our Rules
 
-    Please note that the rules below are not an exhaustive list of everything we expect from our users. Instead, you
-    should use them to inform yourself on what types of behaviour we expect from you, and what we don't want to see
-    happening within our community.
+    Please note that the rules below are not an exhaustive list of everything we expect from our users. Instead, you should use them to inform yourself on what types of behaviour we expect from you, and what we don't want to see happening within our community.
 
 
-    The moderation team reserves the right to remove users from the CMC project and community spaces as they see fit,
-    including based on the behaviour of a user outside of spaces they're responsible for. However, if you have any
-    feedback or suggestions regarding how we do moderation, please feel free to post in (or create) a thread in
-    <#1194652314275950702>, or send us a ModMail.
-
-
-    __\_\_\_\_\___
+    The moderation team reserves the right to remove users from the CMC project and community spaces as they see fit, including based on the behaviour of a user outside of spaces they're responsible for. However, if you have any feedback or suggestions regarding how we do moderation, please feel free to post in (or create) a thread in <#1194652314275950702>, or send us a ModMail.
 
   rules:
     Follow Discord's Rules: >-
-      We're obliged to enforce Discord's rules, as a project that mostly exists on Discord - that means that everyone
-      must follow the [Terms of Service](https://discord.com/terms) and 
-      [Community Guidelines](https://discord.com/terms/guidelines).
+      We're obliged to enforce Discord's rules, as a project that mostly exists on Discord - that means that everyone must follow the [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/terms/guidelines).
 
 
-      We recognise that some client mods provide useful moderation tools and accessibility features, and it isn't our  prerogative to tell people what software they may or may not run on their devices. However, even though Discord
-      is not known for banning client mod users at random, you're still taking a huge risk by installing one. For that
-      reason, we would rather not facilitate the promotion of client mods on this server.
+      We recognise that some client mods provide useful moderation tools and accessibility features, and it isn't our prerogative to tell people what software they may or may not run on their devices. However, even though Discord is not known for banning client mod users at random, you're still taking a huge risk by installing one. For that reason, we would rather not facilitate the promotion of client mods on this server.
 
 
     Try to Speak English: >-
-      While we understand that not everyone speaks native-level English, it's the common language used in our community
-      spaces. As a result, we are currently unable to moderate discussions that primarily use other languages.
+      While we understand that not everyone speaks native-level English, it's the common language used in our community spaces. As a result, we are currently unable to moderate discussions that primarily use other languages.
 
 
-      If you don't speak English as well as you perhaps would like to, don't worry - please give it your best shot
-      regardless, and make use of translation tools like [Google Translate](https://translate.google.com/) if you need
-      to. We will not tolerate discrimination towards anyone for a lack of proficiency with the English language.
+      If you don't speak English as well as you perhaps would like to, don't worry - please give it your best shot regardless, and make use of translation tools like [Google Translate](https://translate.google.com/) if you need to. We will not tolerate discrimination towards anyone for a lack of proficiency with the English language.
 
 
-      This rule only applies when it's impossible to discern the subject or primary content of a discussion due to
-      the use of another language. It does not apply when talking about translating text, moderating content in other
-      languages, or localising tooling, bots, or the CMC project itself.
-    
+      This rule only applies when it's impossible to discern the subject or primary content of a discussion due to the use of another language. It does not apply when talking about translating text, moderating content in other languages, or localising tooling, bots, or the CMC project itself.
+
     Interact Appropriately: >-
       Keep discussions relevant and meaningful, and do your best to adhere to the topics of the channels you're using.
 
 
       In particular:
 
-      - Use ModMail for questions and reports for the moderation team. Reports do not belong in public channels, but
-        you may ping <@&1131362880269336616> for situations that require the immediate attention of the moderation team.
+      - Use ModMail for questions and reports for the moderation team. Reports do not belong in public channels, but you may ping <@&1131362880269336616> for situations that require the immediate attention of the moderation team.
 
-      - Do not use generative AI to answer questions, or to interact on this server in general. The use of generative
-        AI is also prohibited when contributing content to the CMC projects. This rule exists largely because of the
-        dangers of AI hallucinations, and we take this problem seriously.
+      - Do not use generative AI to answer questions, or to interact on this server in general. The use of generative AI is also prohibited when contributing content to the CMC projects. This rule exists largely because of the dangers of AI hallucinations, and we take this problem seriously.
 
-      - Do not post NSFW media or make sexual advances or comments towards other users. Discussions around the 
-        definition of NSFW, how to handle NSFW content in your spaces, and other similar topics are allowed.
-      
-      - Do not post malicious files. Malicious links may only be posted within a `code block`, and only when they're
-        relevant to a current discussion. We're currently working on collaborating with the FishFish project, where
-        discussing this type of content is a little more on-topic.
+      - Do not post NSFW media or make sexual advances or comments towards other users. Discussions around the definition of NSFW, how to handle NSFW content in your spaces, and other similar topics are allowed.
 
-      - Try to keep off-topic chatter to the **Social** category. Each channel has a purpose, and it's important to
-        avoid clogging up on-topic channels with chatter, as it may prevent people from discussing something important.
+      - Do not post malicious files. Malicious links may only be posted within a `code block`, and only when they're relevant to a current discussion. We're currently working on collaborating with the FishFish project, where discussing this type of content is a little more on-topic.
 
-      - Community management is a complex topic and many issues have multiple valid approaches. While meaningful 
-        debate is allowed and encouraged, try to avoid starting (or joining) arguments. If you find yourself feeling
-        heated, it may sometimes be best to step away and come back later. If you feel something is problematic, it's
-        usually better to contact the moderation team (via ModMail or the <@&1131362880269336616> ping) rather than
-        engaging directly.
+      - Try to keep off-topic chatter to the **Social** category. Each channel has a purpose, and it's important to avoid clogging up on-topic channels with chatter, as it may prevent people from discussing something important.
+
+      - Community management is a complex topic and many issues have multiple valid approaches. While meaningful  debate is allowed and encouraged, try to avoid starting (or joining) arguments. If you find yourself feeling heated, it may sometimes be best to step away and come back later. If you feel something is problematic, it's usually better to contact the moderation team (via ModMail or the <@&1131362880269336616> ping) rather than engaging directly.
 
     Respect Other Users: >-
-      This server is likely to include many different types of people from all walks of life, and it's important to
-      treat each other with deserved respect.
+      This server is likely to include many different types of people from all walks of life, and it's important to treat each other with deserved respect.
 
 
       In particular:
 
-      - Do not use this server as a way to contact any Discord staff members that may be present here, or to attempt
-        to escalate your Discord reports or support tickets.
+      - Do not use this server as a way to contact any Discord staff members that may be present here, or to attempt to escalate your Discord reports or support tickets.
 
-      - Do not harass or bully anyone, and do not discriminate against protected minority groups. Hate speech (such as
-        racism, sexism, homophobia, transphobia, etc) will not be tolerated.
-      
-      - Do not doxx anyone, or otherwise share their addresses, real names, IP addresses or any other personal
-        information without their permission.
-      
-      - Do not send unsolicited private messages to other users, unless they've stated (either via their Discord 
-        profile bio or a message) that they're open to them.
+      - Do not harass or bully anyone, and do not discriminate against protected minority groups. Hate speech (such as racism, sexism, homophobia, transphobia, etc) will not be tolerated.
 
-      - Do not pester other users about their Discord profile badges. If you have questions about a specific badge,
-        [Discord talks about them in this article](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101).
+      - Do not doxx anyone, or otherwise share their addresses, real names, IP addresses or any other personal information without their permission.
 
-      - This project is focused on educating people and creating resources, rather than keeping track of
-        individual members of specific-community-focused harassment groups. Discussions relating to those groups are
-        on-topic, but we would prefer not to orchestrate witch hunts.
-      
-      - We aim to educate people on quite a few topics, and part of that work will involve experiencing others'
-        inexperience, biases and misconceptions first-hand. While we have absolutely no interest in judging the
-        reactions of a minority group towards people with harmful beliefs about them, we would like to take the
-        opportunity to educate those who are not inherently bigoted, which may be made more difficult when basic
-        misconceptions are met with instant hostility.
+      - Do not send unsolicited private messages to other users, unless they've stated (either via their Discord  profile bio or a message) that they're open to them.
+
+      - Do not pester other users about their Discord profile badges. If you have questions about a specific badge, [Discord talks about them in this article](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101).
+
+      - This project is focused on educating people and creating resources, rather than keeping track of individual members of specific-community-focused harassment groups. Discussions relating to those groups are on-topic, but we would prefer not to orchestrate witch hunts.
+
+      - We aim to educate people on quite a few topics, and part of that work will involve experiencing others' inexperience, biases and misconceptions first-hand. While we have absolutely no interest in judging the reactions of a minority group towards people with harmful beliefs about them, we would like to take the opportunity to educate those who are not inherently bigoted, which may be made more difficult when basic misconceptions are met with instant hostility.
 
 - type: embed
 
@@ -120,16 +78,14 @@
 
   embeds:
     - description: >-
-        - <@&1199684396899385444> handle project-wide decisions and the day-to-day maintenance of both the project and
-          this server.
+        - <@&1199684396899385444> handle project-wide decisions and the day-to-day maintenance of both the project and this server.
 
-        - <@&1131362880269336616> handle general moderation of this server and other project spaces. You can DM
-          the ModMail bot if you need to contact them, or ping them in a channel for situations that need their immediate attention.
-        
+        - <@&1131362880269336616> handle general moderation of this server and other project spaces. You can DM the ModMail bot if you need to contact them, or ping them in a channel for situations that need their immediate attention.
+
         - <@&1131547978331590808> [TODO: Define roles]
 
         - <@&1199684531360366602> are people that have directly contributed to the project in some way.
 
         - <@&1197550474598023219> people have been given access to this server via the applications process.
-      
+
       color: 0xA16ABE
