@@ -16,7 +16,7 @@ services:
     environment:
       - "ADAPTER_MONGODB_URI=mongodb://${DB_USERNAME}:${DB_PASSWORD}@cmc-bot-db/"
 
-      - GENERAL_TOKEN
+      - TOKEN=${GENERAL_TOKEN}
       - SENTRY_DSN=${SENTRY_DSN_GENERAL}
 
   cmc-invites-bot:
@@ -34,7 +34,7 @@ services:
     environment:
       - "ADAPTER_MONGODB_URI=mongodb://${DB_USERNAME}:${DB_PASSWORD}@cmc-bot-db/"
 
-      - INVITES_TOKEN
+      - TOKEN=${INVITES_TOKEN}
       - SENTRY_DSN=${SENTRY_DSN_INVITES}
 
   cmc-bot-db:
