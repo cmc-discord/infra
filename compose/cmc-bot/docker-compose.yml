@@ -1,0 +1,54 @@
+version: "3"
+
+services:
+  cmc-general-bot:
+    image: ghcr.io/cmc-discord/bot-general:latest
+    container_name: cmc-general-bot
+
+    restart: always
+
+    depends_on:
+      - cmc-bot-db
+
+    labels:
+      com.centurylinklabs.watchtower.enable: "true"
+
+    environment:
+      - "ADAPTER_MONGODB_URI=mongodb://${DB_USERNAME}:${DB_PASSWORD}@cmc-bot-db/"
+
+      - GENERAL_TOKEN
+      - SENTRY_DSN
+
+  cmc-invites-bot:
+    image: ghcr.io/cmc-discord/bot-invites:latest
+    container_name: cmc-invites-bot
+
+    restart: always
+
+    depends_on:
+      - cmc-bot-db
+
+    labels:
+      com.centurylinklabs.watchtower.enable: "true"
+
+    environment:
+      - "ADAPTER_MONGODB_URI=mongodb://${DB_USERNAME}:${DB_PASSWORD}@cmc-bot-db/"
+
+      - INVITES_TOKEN
+      - SENTRY_DSN
+
+  cmc-bot-db:
+    image: mongo
+    container_name: cmc-bot-db
+
+    restart: always
+
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: "${DB_USERNAME}"
+      MONGO_INITDB_ROOT_PASSWORD: "${DB_PASSWORD}"
+
+    volumes:
+      - cmc-general-bot-db:/data/db
+
+volumes:
+  cmc-general-bot-db:
