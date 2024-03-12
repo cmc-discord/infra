@@ -17,6 +17,7 @@ services:
       - "ADAPTER_MONGODB_URI=mongodb://${DB_USERNAME}:${DB_PASSWORD}@cmc-general-bot-db/"
 
       - TOKEN
+      - SENTRY_DSN
 
   cmc-general-bot-db:
     image: mongo
