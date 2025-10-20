@@ -90,32 +90,33 @@
 
     If you run into any problems or otherwise need to contact our staff, please pick one of these options:
 
-    - **Reporting:** You have a few options when you need to report something to the moderators:
+    **Reporting:** You have a few options when you need to report something to the moderators:
 
-      - You can right-click or tap-and-hold on a message or user, select "Apps", and then select Sapphire's reporting command to create a report.
+    - You can right-click or tap-and-hold on a message or user, select "Apps", and then select Sapphire's reporting command to create a report.
 
-      - For ongoing issues in channels that require direct moderator attention, you can ping the <@&1131362880269336616> role directly in the channel.
+    - For ongoing issues in channels that require direct moderator attention, you can ping the <@&1131362880269336616> role directly in the channel.
 
-      - You can also DM one of our moderators or admins, if you feel that's more appropriate or comfortable.
+    - You can also DM one of our moderators or admins, if you feel that's more appropriate or comfortable.
 
-    - **Questions & Feedback**: If you just have a question or need to talk about something, we prefer these approaches:
+    **Questions & Feedback**: If you just have a question or need to talk about something, we prefer these approaches:
 
-      - Create a post in <#1429790752111853709> or <#1194652314275950702> (depending on your access) for broader discussions that should involve the community.
+    - Create a post in <#1429790752111853709> or <#1194652314275950702> (depending on your access) for broader discussions that should involve the community.
 
-      - Send a DM to one of our moderators or admins for a more private discussion.
+    - Send a DM to one of our moderators or admins for a more private discussion.
 
 - type: text
 
   text: >-
     ## Applications
 
-    To better address our community's safety needs, we run a two-tiered access system. 
+    To better address our community's safety needs, we run a two-tiered access system:
     
     - The channels in the "Information", "Feeds", and "Public Channels" categories, along with any other categories starting with the 💬 emoji, are public. Anyone who joins this server will be given access to these channels, so please keep that in mind when posting there.
 
     - The channels in any categories starting with the 🔒 emoji are private. These channels can only be accessed by staff members, and users who have obtained an invite code and gone through the applications process.
 
     - The channels in any categories starting with the 🔧 emoji are staff channels, and are only visible to staff members.
+
 
     **To apply for access to the private channels:** Please see <#1305111270697074728> for more information.
 
