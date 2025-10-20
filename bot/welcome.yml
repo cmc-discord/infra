@@ -19,14 +19,14 @@
     Please note that the rules below are not an exhaustive list of everything we expect from our users. Instead, you should use them to inform yourself on what types of behaviour we expect from you, and what we don't want to see happening within our community.
 
 
-    The moderation team reserves the right to remove users from the CMC project and community spaces as they see fit, including based on the behaviour of a user outside of spaces they're responsible for. However, if you have any feedback or suggestions regarding how we do moderation, please feel free to post in (or create) a thread in <#1194652314275950702>, or send us a ModMail.
+    The moderation team reserves the right to remove users from the CMC project and community spaces as they see fit, including based on the behaviour of a user outside of spaces they're responsible for. However, if you have any feedback or suggestions, please feel free to post in <#1429790752111853709> or <#1194652314275950702> (depending on your access), or send us a DM.
 
   rules:
     Follow Discord's Rules: >-
       We're obliged to enforce Discord's rules, as a project that mostly exists on Discord - that means that everyone must follow Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/terms/guidelines).
 
 
-      We recognise that some client mods provide useful moderation tools and accessibility features, and it isn't our prerogative to tell folks what software they may or may not run on their devices. However, even though Discord is not known for banning client mod users at random, you're still taking a huge risk by installing one. For that reason, we would rather not facilitate the promotion of client mods on this server.
+      We recognise that some client mods provide useful moderation tools and accessibility features, and it isn't our prerogative to tell folks what software they may or may not run on their devices. However, even though Discord is not known for banning client mod users at random, you're still taking a huge risk by installing one. For that reason, we would rather not facilitate the promotion of client mods on this server. This, however, doesn't mean you need to completely avoid discussing them - sometimes they're on-topic!
 
 
     Try to Speak English: >-
@@ -44,7 +44,7 @@
 
       In particular:
 
-      - Use ModMail for questions and reports for the moderation team. Reports do not belong in public channels, but you may ping <@&1131362880269336616> for situations that require the immediate attention of the moderation team.
+      - Use Sapphire to create reports for the moderation team. Reports do not belong in public channels, but you may ping <@&1131362880269336616> for situations that require the immediate attention of the moderation team.
 
       - Do not use generative AI to answer questions, or to interact on this server in general. The use of generative AI is also prohibited when contributing content to the CMC projects. This rule exists largely because of the dangers of AI hallucinations, and we take this problem seriously.
 
@@ -52,9 +52,9 @@
 
       - Do not post malicious files. Malicious links may only be posted within a `code block`, and only when they're relevant to a current discussion. We're currently working on collaborating with the FishFish project, where discussing this type of content is a little more on-topic.
 
-      - Try to keep off-topic chatter to the **Social** category. Each channel has a purpose, and it's important to avoid clogging up on-topic channels with chatter, as it may prevent folks from discussing something important.
+      - Try to keep off-topic chatter to the dedicated off-topic channels. Each channel has a purpose, and it's important to avoid clogging up on-topic channels with chatter, as it may prevent folks from discussing something important.
 
-      - Community management is a complex topic and many issues have multiple valid approaches. While meaningful  debate is allowed and encouraged, try to avoid starting (or joining) arguments. If you find yourself feeling heated, it may sometimes be best to step away and come back later. If you feel something is problematic, it's usually better to contact the moderation team (via ModMail or the <@&1131362880269336616> ping) rather than engaging directly.
+      - Community management is a complex topic and many issues have multiple valid approaches. While meaningful debate is allowed and encouraged, try to avoid starting (or joining) arguments. If you find yourself feeling heated, it may sometimes be best to step away and come back later. If you feel something is problematic, it's usually better to contact the moderation team (via Sapphire reports or the <@&1131362880269336616> ping) rather than engaging directly.
 
     Respect Other Users: >-
       This server is likely to include many different types of folks from all walks of life, and it's important to treat each other with deserved respect.
@@ -66,7 +66,7 @@
 
       - Do not harass or bully anyone, and do not discriminate against protected minority groups. Hate speech (such as racism, sexism, homophobia, transphobia, etc) will not be tolerated. We also do not tolerate discrimination towards plural systems based on their origins.
 
-      - Do not doxx anyone, or otherwise share their addresses, real names, IP addresses or any other personal information without their permission.
+      - Do not doxx anyone, or otherwise share their addresses, real names, IP addresses, or any other personal information without their permission.
 
       - Do not abuse accessibility tools such as <@466378653216014359> by impersonating someone else, role-playing, evading blocks or otherwise causing trouble.
 
@@ -84,6 +84,42 @@
 
       - We aim to educate folks on quite a few topics, and part of that work will involve experiencing others' inexperience, biases, and misconceptions first-hand. While we have absolutely no interest in judging the reactions of a minority group towards folks with harmful beliefs about them, we would like to take the opportunity to educate those who are not inherently bigoted, which may be made more difficult when basic misconceptions are met with instant hostility.
 
+- type: text
+
+  text: >-
+    ## Reporting, Questions & Feedback
+
+    If you run into any problems or otherwise need to contact our staff, please pick one of these options:
+
+    - **Reporting:** You have a few options when you need to report something to the moderators:
+
+      - You can right-click or tap-and-hold on a message or user, select "Apps", and then select Sapphire's reporting command to create a report.
+
+      - For ongoing issues in channels that require direct moderator attention, you can ping the <@&1131362880269336616> role directly in the channel.
+
+      - You can also DM one of our moderators or admins, if you feel that's more appropriate or comfortable.
+
+    - **Questions & Feedback**: If you just have a question or need to talk about something, we prefer these approaches:
+
+      - Create a post in <#1429790752111853709> or <#1194652314275950702> (depending on your access) for broader discussions that should involve the community.
+
+      - Send a DM to one of our moderators or admins for a more private discussion.
+
+- type: text
+
+  text: >-
+    ## Applications
+
+    To better address our community's safety needs, we run a two-tiered access system. 
+    
+    - The channels in the "Information", "Feeds", and "Public Channels" categories, along with any other categories starting with the 💬 emoji, are public. Anyone who joins this server will be given access to these channels, so please keep that in mind when posting there.
+
+    - The channels in any categories starting with the 🔒 emoji are private. These channels can only be accessed by staff members, and users who have obtained an invite code and gone through the applications process.
+
+    - The channels in any categories starting with the 🔧 emoji are staff channels, and are only visible to staff members.
+
+    **To apply for access to the private channels:** Please see <#1305111270697074728> for more information.
+
 - type: embed
 
   text: >-
@@ -97,8 +133,10 @@
 
         - <@&1131362880269336616> handle general moderation of this server and other project spaces. You can DM the ModMail bot if you need to contact them, or ping them in a channel for situations that need their immediate attention.
 
+        - <@&1131547978331590808> are more general staff members, handling maintenance and management tasks that don't involve an admin or moderation tasks. People with this role tend to be our community's helpers, facilitating contributions and helping with reviews and approvals.
+
         - <@&1199684531360366602> are folks that have directly contributed to the project in some way.
 
-        - <@&1197550474598023219> folks have been given access to this server via the applications process.
+        - <@&1197550474598023219> folks have been given access to this server's private channels via the applications process.
 
       color: 0xA16ABE
